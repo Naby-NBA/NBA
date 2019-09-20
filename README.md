@@ -1,2 +1,2 @@
 # NBA
-Naby NBA
+NBA is supported by Byzantine Partners, a disruptive technology innovation fund in San Francisco, and Orichal Partners, a professional digital asset investment advisory fund in the United States. NBA is based on Naby Chain's underlying public chain and is mediated by digital assets on the chain. It focuses on privacy, decentralization and scalability. It uses ring signatures, ring confidentiality, and hidden addresses to confuse the source of transactions to protect privacy and security. It is an encrypted digital currency that can send anonymously and pay second-level confirmation. NBA is committed to becoming an irreplaceable and untraceable electronic currency.
